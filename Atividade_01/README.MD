@@ -17,7 +17,7 @@ Para lidar com dados de vários países mantendo a consistência e performance:
 
 ---
 
-## 🛠️ Como Executar no Windows
+## Como Executar no Windows
 
 Siga estes passos no terminal (PowerShell) dentro desta pasta:
 
