@@ -35,3 +35,8 @@ pip install -r requirements.txt
 ```
 python Main.py
 ```
+
+4. **Validando os Dados**
+```
+python Teste.py
+```
