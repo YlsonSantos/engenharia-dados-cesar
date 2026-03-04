@@ -12,7 +12,7 @@ Este repositório armazena os projetos e atividades práticas desenvolvidos na d
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack tecnológica
 
 * **Linguagem:** Python 3.13+
 * **Banco de Dados:** SQLite
