@@ -27,7 +27,11 @@ Siga estes passos no terminal (PowerShell) dentro desta pasta:
    .\.venv\Scripts\activate
    ```
 2. **Instalar Dependências:**
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 3. **Executar Pipeline:**
-```python Main.py```
+```
+python Main.py
+```
